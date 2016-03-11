@@ -11,4 +11,9 @@ public class Sampleclass {
 		System.out.println("this is my third step");
 	}
 
+	
+	private static void friendname(){
+		
+		System.out.println("my friend name is varun");
+	}
 }
