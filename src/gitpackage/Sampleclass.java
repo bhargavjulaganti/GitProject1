@@ -7,6 +7,8 @@ public class Sampleclass {
 		System.out.println("this is my first step");
 		
 		System.out.println("this is my second step");
+		
+		System.out.println("this is my third step");
 	}
 
 }
